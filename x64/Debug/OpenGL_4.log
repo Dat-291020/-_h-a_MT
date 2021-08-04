@@ -1,0 +1,22 @@
+﻿  OpenGL_4.cpp
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(32,32): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(32,32): warning C4302: 'type cast': truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(33,29): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(33,29): warning C4302: 'type cast': truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(34,30): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(34,30): warning C4302: 'type cast': truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(35,31): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(35,31): warning C4302: 'type cast': truncation from 'unsigned char *' to 'int'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(721,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(722,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(723,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(991,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1225,22): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1415,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1419,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1424,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1429,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1434,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1438,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL_4\OpenGL_4\OpenGL_4.cpp(1559,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGL_4.vcxproj -> D:\OpenGL_4\x64\Debug\OpenGL_4.exe
